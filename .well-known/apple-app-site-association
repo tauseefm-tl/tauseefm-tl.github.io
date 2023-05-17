@@ -1,0 +1,31 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "WEC7YVVBWJ.com.thetrainline.iphone",
+                "paths": [
+                    "/",
+                    "/de",
+                    "/fr",
+                    "/es",
+                    "/it",
+                    "/train-times/*",
+                    "/de/bahn-fahrplan/*",
+                    "/en/train-times/*",
+                    "/fr/horaires-train/*",
+                    "/es/horarios-trenes/*",
+                    "/it/orari-treni/*",
+                    "/buytickets/datapassedin.aspx",
+                    "/sale/*",
+                    "/promo",
+                    "/railcards/renew/*",
+                    "/payments/*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": ["WEC7YVVBWJ.com.thetrainline.iphone"]
+    }
+}
